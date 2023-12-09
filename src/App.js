@@ -319,7 +319,7 @@ function App() {
       </div>
 
       <div className=" h-full flex-1  p-8 ">
-      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar deneme yazısı</label></div>
+      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar</label></div>
       
       <div className="gap-x-11   m-4 flex">
       <div >
