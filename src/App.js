@@ -296,7 +296,7 @@ function App() {
 
     <div className="w-[1200px] h-[503px] my-4  mx-auto  items-center justify-center flex">
       <div className=" h-full flex-1  p-8 ">
-      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar (deneme yazısı)</label></div>
+      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar</label></div>
       
       <div className="gap-y-4  gap-x-11 m-4 flex">
       <div>
@@ -318,9 +318,8 @@ function App() {
 
       </div>
 
-    
       <div className=" h-full flex-1  p-8 ">
-      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar</label></div>
+      <div><label className="text-[20px] p-4">Popüler Marka ve Mağazalar deneme yazısı</label></div>
       
       <div className="gap-x-11   m-4 flex">
       <div >
