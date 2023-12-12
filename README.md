@@ -1,1 +1,1 @@
-# Projenin eksikleri zamanla tamamlanacak. Proje beta linkinden göz atabilirsiniz.
+# Proje geliştirilme aşamasında. Beta linkinden kontrol edebilirsiniz. (Response yapı , Footer , Kategori Sekmeleri )
