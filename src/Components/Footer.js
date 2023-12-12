@@ -91,7 +91,7 @@ function Footer() {
    </div>
 
    <div className="p-8 h-full mt-8   flex-1">
-   <label className="text-white text-[20px] font-semibold"> Yardım</label>
+   <label className="text-white text-[20px] font-semibold"> deneme sürümü</label>
    </div>
     </div>
     </div>
