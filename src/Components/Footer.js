@@ -27,7 +27,7 @@ function Footer() {
 
             <div className="my-4">
               <label className="text-white text-[12px] font-semibold hover:cursor-pointer ">
-                Kariyer (deneme)
+                Kariyer
               </label>
             </div>
 
