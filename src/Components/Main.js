@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
-function Main({data}) {
+function Main({ data }) {
   return (
     <div className=" items-center justify-center flex">
-  <label className=" text-red-600">{data}</label>  
+      <label className=" text-red-600">{data}</label>
     </div>
-  )
+  );
 }
 
-export default Main
+export default Main;
