@@ -5,6 +5,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { RiInstagramFill } from "react-icons/ri";
 import { FaFacebook } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
+import { FaMoneyCheckDollar } from "react-icons/fa6";
 
 
 function Footer() {
@@ -20,41 +21,56 @@ function Footer() {
     <label className="text-white text-[20px] font-semibold hover:cursor-pointer "> Trendyol</label>
     </div>
 
-    <div className="my-3">
-    <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Biz Kimiz</label>
+    <div className="my-4">
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Biz Kimiz</label>
     </div>
 
-    <div className="my-3">
-    <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Kariyer</label>
+    <div className="my-4">
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Kariyer</label>
     </div>
 
-    <div className="my-3">
-        <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> İletişim</label>
+    <div className="my-4">
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> İletişim</label>
     </div> 
     
-    <div className="my-3">
-        <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Trendyol'dan Satış Yap</label>
+    <div className="my-4">
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Trendyol'dan Satış Yap</label>
     </div> 
     
-    <div className="my-3">
+    <div className="my-4">
         <label className="text-white text-[18px] font-semibold hover:cursor-pointer "> Güvenli Alışveriş</label>
     </div> 
 
-    <div className="my-3 flex h-[100px] w-[300px]  border rounded-md">
-             <div className="border flex-1 bg-[#2df4d3] items-center justify-center"><label className="  text-[18px] font-semibold hover:cursor-pointer text-center"> Troy</label></div>
-             <div className="border flex-1 bg-red-600">Master</div>
-             <div className="border flex-1 bg-white">visa</div>
-             <div className="border flex-1 bg-blue-600">american</div>
+    <div className="my-3 flex h-[100px] w-[300px] items-center justify-center  border gap-x-4 rounded-md">
+  
+        <div className="group hover:cursor-pointer hover:duration-500 hover:transition hover:scale-105 duration-500 transition">
+        <div className="my-1 rounded-xl border p-2" > <FaMoneyCheckDollar className="w-[30px] h-[30px] text-white"/></div>
+        <div className="flex items-center justify-center select-none "><label className="text-white group-hover:text-blue-500 duration-300  hover:duration-300 transition hover:transition ">Troy</label></div>
+        </div>
+    
+        <div className="group hover:cursor-pointer  hover:duration-500 hover:transition hover:scale-105 duration-500 transition" >
+        <div className="my-1 rounded-xl border p-2" > <FaMoneyCheckDollar className="w-[30px] h-[30px] text-white"/></div>
+        <div className="flex items-center justify-center select-none"><label className="text-white group-hover:text-blue-500 duration-300  hover:duration-300 transition hover:transition">Master</label></div>
+        </div>
 
+        <div className="group hover:cursor-pointer  hover:duration-500 hover:transition hover:scale-105 duration-500 transition">
+        <div className="my-1 rounded-xl border p-2" > <FaMoneyCheckDollar className="w-[30px] h-[30px] text-white"/></div>
+        <div className="flex items-center justify-center select-none"><label className="text-white group-hover:text-blue-500 duration-300  hover:duration-300 transition hover:transition ">Visa</label></div>
+        </div>
+        
+        <div className="group hover:cursor-pointer  hover:duration-500 hover:transition hover:scale-105 duration-500 transition">
+        <div className="my-1 rounded-xl border p-2 flex items-center justify-center" > <FaMoneyCheckDollar className="w-[30px] h-[30px] text-white"/></div>
+        <div className="flex items-center justify-center select-none"><label className="text-white  whitespace-normal group-hover:text-blue-500 duration-300  hover:duration-300 transition hover:transition">American E.</label></div>
+        </div>
+
+    </div> 
+
+    <div>
+        <label className=" text-red-800 text-[12px]"> (Bu alana orjinal sitedeki gibi logolar eklenebilir.)</label>
     </div> 
 
    </div>
 
-{/**        <div className="border flex-1"><label className=" text-white text-[14px] font-semibold hover:cursor-pointer rounded-full border p-1 bg-red-600 shadow-xl  h-auto text-center"> Troy</label></div>
-       <div className="border flex-1"> <label className="text-white text-[14px] font-semibold hover:cursor-pointer rounded-full border p-1 bg-red-600 shadow-xl  h-auto text-center"> Master Card</label></div>
-       <div className="border flex-1">  <label className="text-white text-[14px] font-semibold hover:cursor-pointer rounded-full border p-1 bg-red-600 shadow-xl  h-auto text-center"> Vısa</label></div>
-       <div className="border flex-1">  <label className="text-white text-[14px] font-semibold hover:cursor-pointer rounded-full border p-1 bg-red-600 shadow-xl   h-auto text-center"> American Express</label></div> */}
-   
    
    <div className="p-8  mt-2  h-full flex-1 ">
     
@@ -63,28 +79,28 @@ function Footer() {
     </div>
 
     <div className="my-3">
-    <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Who we are </label>
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Who we are </label>
     </div>
 
     <div className="my-3">
-    <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Careers</label>
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Careers</label>
     </div>
 
     <div className="my-3">
-        <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Contact us</label>
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Contact us</label>
     </div> 
     
-    <div className="my-3">
-        <label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Sustainability</label>
+    <div className="my-4">
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Sustainability</label>
     </div> 
     
-    <div className="my-3">
+    <div className="my-2">
         <label className="text-white text-[18px] font-semibold hover:cursor-pointer "> Mobil Uygulamalar</label>
     </div> 
 
     <div>
 
-    <div className="border w-[155px] my-3  h-[50px] flex items-center rounded-md hover:cursor-pointer hover:transition hover:duration-500 hover:scale-105 transition  duration-500 ">
+    <div className="border w-[155px] my-2  h-[50px] flex items-center rounded-md hover:cursor-pointer hover:transition hover:duration-500 hover:scale-105 transition  duration-500 ">
         <FaApple  className="text-white  w-[30px]  h-[30px]  mx-2"/>
         <div>
         <div>  <label className="text-white text-[18px] font-semibold hover:cursor-pointer   "> App Store</label></div>
@@ -94,7 +110,7 @@ function Footer() {
     </div>
 
 
-    <div className="border w-[155px] my-3 h-[50px] flex items-center rounded-md hover:cursor-pointer  hover:transition hover:duration-500 hover:scale-105 transition  duration-500">
+    <div className="border w-[155px] my-2 h-[50px] flex items-center rounded-md hover:cursor-pointer  hover:transition hover:duration-500 hover:scale-105 transition  duration-500">
         <IoLogoGooglePlaystore  className="text-white  w-[30px]  h-[30px]  mx-2"/>
         <div>
         <div>  <label className="text-white text-[18px] font-semibold hover:cursor-pointer "> Google Play</label></div>
@@ -123,16 +139,16 @@ function Footer() {
 
     <div><label className="text-white text-[20px] font-semibold hover:cursor-pointer "> Kampanyalar</label></div>
 
-    <div className="my-3"><label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Aktif Kampanyalar </label></div>
+    <div className="my-4"><label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Aktif Kampanyalar </label></div>
 
-    <div className="my-3"><label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Elite Üyelik </label></div>
+    <div className="my-4"><label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Elite Üyelik </label></div>
 
-    <div className="my-3"><label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Hediye Fikirleri </label></div>
+    <div className="my-4"><label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Hediye Fikirleri </label></div>
 
     
-    <div className="my-3"><label className="text-white text-[14px] font-semibold hover:cursor-pointer "> Trendyol Fırsatları </label></div>
+    <div className="my-4"><label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Trendyol Fırsatları </label></div>
 
-    <div className="my-3"><label className="text-white text-[18px] font-semibold hover:cursor-pointer ">Sosyal Medya  </label></div>
+    <div className="my-4"><label className="text-white text-[18px] font-semibold hover:cursor-pointer ">Sosyal Medya  </label></div>
 
 
     <div className="flex items-center gap-x-2 ">
@@ -149,7 +165,41 @@ function Footer() {
    </div>
 
    <div className="p-8 h-full mt-2   flex-1">
-   <label className="text-white text-[20px] font-semibold"> Yardım</label>
+   <div>
+    <label className="text-white text-[20px] font-semibold hover:cursor-pointer "> Yardım</label>
+    </div>
+
+    <div className="my-4">
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Sıkça Sorulan Sorular </label>
+    </div>
+
+    <div className="my-4">
+    <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Canlı Yardım</label>
+    </div>
+
+    <div className="my-4">
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> Nasıl İade Edebilirimu</label>
+    </div> 
+    
+    <div className="my-4">
+        <label className="text-white text-[12px] font-semibold hover:cursor-pointer "> İşlem Rehberi</label>
+    </div> 
+    
+    <div className="my-4 border rounded-xl w-[100px] flex items-center justify-center p-1">
+      <button className="text-white text-center text-[12px] font-bold">Ülke Değiştir</button>
+    </div> 
+    
+    <div className="flex">
+    <div className="my-2 w-[100px] flex items-center justify-center p-1">
+      <img src="https://cdn.dsmcdn.com/web/production/etbis-qr.png" className="w-[93px] h-[103px]"/>
+    </div> 
+
+    <div className="my-2  w-[100px] flex items-center justify-center p-1">
+      <img src="https://www.guvendamgasi.org.tr/public/images/logo.png" className="w-[50px] h-[50px]"/>
+    </div> 
+    </div>
+
+
    </div>
     </div>
     </div>
