@@ -119,8 +119,6 @@ function App() {
     fetchData();
   }, []);
 
-  console.log(popularSideData);
-
   const dataLists = [
     {
       data: "İndirim Kuponlarım",

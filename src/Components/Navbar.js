@@ -33,14 +33,14 @@ function Navbar() {
         <div className="flex gap-x-2 group">
           <MdFavoriteBorder className="w-[18px] h-[18px] group-hover:cursor-pointer group-hover:fill-orange-600" />
           <label className="text-[12px] group-hover:cursor-pointer group-hover:text-orange-500">
-            Giriş Yap
+            Favorilerim
           </label>
         </div>
 
         <div className="flex gap-x-2 group">
           <FaCartShopping className="w-[18px] h-[18px] group-hover:cursor-pointer group-hover:fill-orange-600" />
           <label className="text-[12px] group-hover:cursor-pointer group-hover:text-orange-500">
-            Giriş Yap
+            Sepetim
           </label>
         </div>
       </div>
