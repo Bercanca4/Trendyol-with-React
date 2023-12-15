@@ -76,7 +76,7 @@ function Navbar() {
         />
         {isClicked && (
           <div
-            className="absolute rounded-lb-sm p-2 bg-white  w-full h-[430px] border-2 border-orange-500  shadow-md z-10 "
+            className="absolute rounded-lb-sm p-2 bg-white  w-full h-auto border-2 border-orange-500  shadow-md z-10 "
             style={{ top: "100%", left: "0", right: "0" }}>
             <div className=" my-1 mx-5 flex justify-between ">
               <label className="text-orange-500 text-[12px] font-semibold ">
