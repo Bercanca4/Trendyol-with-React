@@ -39,7 +39,7 @@ function Navbar() {
 
     fetchData();
   }, []);
-
+  console.log(searchInputData);
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -115,7 +115,7 @@ function Navbar() {
             </div>
             <div>
               <div className=" mx-5 flex flex-wrap  items-center justify-start whitespace-nowrap  gap-x-2 gap-y-3 ">
-                {searchInputData.slice(10, 30).map((item, index) => (
+                {searchInputData.slice(10, 35).map((item, index) => (
                   <InputSearchData
                     key={index}
                     statu={item.statu}

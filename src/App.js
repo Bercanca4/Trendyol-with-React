@@ -19,9 +19,18 @@ function App() {
   const [brandsData, setBrandsData] = useState([]);
   const [cardsData, setCardsData] = useState([]);
   const [productsData, setProductsData] = useState([]);
+  const [categoryData, setCategoryData] = useState([]);
   const [interestedCategoryData, setInterestedCategoryData] = useState([]);
   const [informationData, setInformationData] = useState([]);
   const [popularSideData, setPopularSideData] = useState([]);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+
+  const handleMouseEnter = () => {
+    setIsDropdownOpen(true);
+  };
+  const handleMouseLeave = () => {
+    setIsDropdownOpen(false);
+  };
 
   useEffect(() => {
     const fetchData = async () => {
@@ -119,6 +128,22 @@ function App() {
     fetchData();
   }, []);
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(
+          "https://raw.githubusercontent.com/Bercanca4/api/main/categoryData.json"
+        );
+        const data = await response.json();
+        setCategoryData(data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   const dataLists = [
     {
       data: "İndirim Kuponlarım",
@@ -133,20 +158,6 @@ function App() {
       data: "Yardım & Destek",
       link: "https://www.trendyol.com/yardim/sorular",
     },
-  ];
-
-  const CategoryData = [
-    { name: "Kadın", statu: "" },
-    { name: "Erkek", statu: "" },
-    { name: "Anne & Çocuk", statu: "" },
-    { name: "Ev & Yaşam", statu: "" },
-    { name: "Süpermarket", statu: "" },
-    { name: "Kozmetik", statu: "" },
-    { name: "Ayakkabı & Çanta", statu: "" },
-    { name: "Elektronik", statu: "" },
-    { name: "Spor & Outdoor", statu: "" },
-    { name: "Çok Satanlar", statu: "true" },
-    { name: "Flaş Ürünler", statu: "true" },
   ];
 
   var settings = {
@@ -166,7 +177,6 @@ function App() {
     slidesToScroll: 2,
     initialSlide: 0,
   };
-
   return (
     <>
       <div className="w-[1200px] mx-auto ">
@@ -179,24 +189,20 @@ function App() {
 
         <Navbar />
 
-        <div className="flex items-center justify-between gap-x-1  ">
-          {CategoryData.map((item, index) => (
+        <div className="flex items-center justify-between gap-x-1 relative z-10">
+          {categoryData.map((item, index) => (
             <Categories
               key={index}
               name={item.name}
-              statu={
-                item.statu === "true" ? (
-                  <p> Yeni</p>
-                ) : (
-                  <p style={{ backgroundColor: "white" }}>{item.statu}</p>
-                )
-              }
+              statu={item.statu}
+              menu={item.menu}
             />
           ))}
         </div>
+        <hr />
       </div>
 
-      <hr className="my-2" />
+      <hr />
 
       <div className="w-[1200px] mx-auto ">
         <div className=" items-center overflow-hidden justify-center my-4 gap-x-8">
