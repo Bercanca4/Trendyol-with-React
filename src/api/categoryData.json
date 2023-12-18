@@ -512,128 +512,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Erkek Giyim",
+        "Title": "Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Erkek Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Erkek Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Erkek Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -646,14 +1019,14 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Anne & Çocuk Anne Giyim",
+        "Title": "Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Anne & Çocuk Elbise",
+            "detailName": "Elbise",
             "link": "https://google.com"
           },
           {
-            "detailName": "Anne & Çocuk Tişört",
+            "detailName": "Tişört",
             "link": "https://google.com"
           },
           {
@@ -697,10 +1070,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -730,16 +1099,15 @@
           }
         ]
       },
-
       {
-        "Title": "Anne Ayakkabı",
+        "Title": "Ayakkabı",
         "CategoryDetails": [
           {
             "detailName": "Topuklu Ayakkabı",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -768,6 +1136,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -831,10 +1577,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -864,7 +1606,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -873,7 +1614,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -902,6 +1643,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -965,10 +2084,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -998,7 +2113,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -1007,7 +2121,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -1036,6 +2150,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -1099,10 +2591,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -1132,7 +2620,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -1141,7 +2628,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -1170,6 +2657,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -1233,10 +3098,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -1266,7 +3127,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -1275,7 +3135,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -1304,6 +3164,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -1367,10 +3605,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -1400,7 +3634,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -1409,7 +3642,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -1438,6 +3671,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
@@ -1501,10 +4112,6 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
-            "link": "https://google.com"
-          },
-          {
             "detailName": "Büyük Beden",
             "link": "https://google.com"
           },
@@ -1534,7 +4141,6 @@
           }
         ]
       },
-
       {
         "Title": "Ayakkabı",
         "CategoryDetails": [
@@ -1543,7 +4149,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Sneaker",
             "link": "https://google.com"
           },
           {
@@ -1572,6 +4178,384 @@
           },
           {
             "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Takı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atkı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bere",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eldiven",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kemer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Şal",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Omuz Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sırt Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Bel Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Okul Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Laptop Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Portföy",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Postacı Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kanvas Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Abiye Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bez Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Anne Bebek Çantası ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Evrak Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tote Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Beslenme Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kartlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cüzdan",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Çantası",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Pijama Takımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gecelik",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Sütyen",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "İç Çamaşır Takımları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Fantezi Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çorap",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Korse",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Külot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büstiyer",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bralet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Atlet & Body",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kombinezon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Jartiyer",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Lüks Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Lüks Giyim",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Lüks Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
             "link": "https://google.com"
           }
         ]
