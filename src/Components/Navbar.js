@@ -59,7 +59,7 @@ function Navbar() {
   console.log(searchInputPasteData);
 
   return (
-    <div className="w-full h-[64px] flex justify-between items-center relative ">
+    <div className="w-full h-[64px]  z-20 flex justify-between items-center relative ">
       <div className="items-center w-fit   ">
         <img src={mainlogo} className="w-[210px] h-[35px]" />
       </div>
@@ -76,13 +76,13 @@ function Navbar() {
         />
         {isClicked && (
           <div
-            className="absolute z-10 rounded-lb-sm p-2 bg-white  w-full h-auto border-2 border-orange-500  shadow-md  "
+            className="absolute z-20 rounded-lb-sm p-2 bg-white  w-full h-auto border-2 border-orange-500  shadow-md  "
             style={{ top: "100%", left: "0", right: "0" }}>
             <div className=" my-1 mx-5 flex justify-between ">
               <label className="text-orange-500 text-[12px] font-semibold ">
                 Geçmiş Aramalar
               </label>
-              <label className="text-black opacity-70 text-[14px] font-semibold hover:cursor-poniter">
+              <label className="text-black opacity-70 hover:cursor-pointer text-[14px] font-semibold hover:cursor-poniter">
                 Temizle
               </label>
             </div>
@@ -146,7 +146,7 @@ function Navbar() {
             </button>
             {isDropdownOpen && (
               <div
-                className="absolute p-2  shadow-md w-[150px] rounded-lg border bg-white"
+                className="absolute p-2  shadow-md  w-[150px] rounded-lg border bg-white"
                 style={{ top: "100%", left: "0" }}>
                 <div>
                   <div className="flex my-2 bg-orange-500 h-[30px] rounded-md border w-full items-center justify-center">

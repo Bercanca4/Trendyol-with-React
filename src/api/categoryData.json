@@ -512,128 +512,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Erkek Giyim",
+        "Title": "Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Erkek Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Erkek Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Erkek Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Erkek Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -646,128 +1019,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Anne & Çocuk Anne Giyim",
+        "Title": "Anne Çocuk Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Anne & Çocuk Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Anne & Çocuk Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Anne Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -780,128 +1526,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Ev Yaşam Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -914,128 +2033,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Spermarkete Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -1048,128 +2540,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Kometik Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -1182,128 +3047,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Ayakkabı Çanta Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -1316,128 +3554,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Elektronik Test Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
@@ -1450,128 +4061,501 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Spor & Outdoor Test Data",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Pantalon",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Mont",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bluz",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Ceket",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Etek",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kazak",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tesettür",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Test Data ",
             "link": "https://google.com"
           },
           {
-            "detailName": "Büyük Beden",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Trençkot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Yağmurluk & Rüzgarlık",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sweatshirt",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kaban",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Hırka",
-            "link": "https://google.com"
-          },
-          {
-            "detailName": "Palto",
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]
       },
-
       {
-        "Title": "Ayakkabı",
+        "Title": "Test Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": " Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Günlük Ayakkabı",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sandalet",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Bot",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Çizme",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kar Botu",
+            "detailName": "Test Data",
             "link": "https://google.com"
           },
           {
-            "detailName": "Loafer",
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Aksesuar & Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Çanta",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çapraz Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test İç Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Lüks & Designer",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": " Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tasarım Giyim ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Test Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Test Data",
             "link": "https://google.com"
           }
         ]

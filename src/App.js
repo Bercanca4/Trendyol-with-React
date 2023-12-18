@@ -189,7 +189,7 @@ function App() {
 
         <Navbar />
 
-        <div className="flex items-center justify-between gap-x-1 ">
+        <div className="flex items-center justify-between ">
           {categoryData.map((item, index) => (
             <Categories
               key={index}

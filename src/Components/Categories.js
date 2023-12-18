@@ -29,22 +29,22 @@ function Categories({ name, statu, menu }) {
       ) : null}
 
       {isDropdownOpen && menu && (
-        <div className="absolute top-[45%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white overflow-x-auto border duration-500 rounded-b-xl transition shadow-md w-[1200px] h-[520px]   ">
-          <div className="grid grid-cols-6  grid-flow-row ">
+        <div className="absolute  top-[45%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white  border duration-500 rounded-b-xl transition shadow-md w-[1200px] h-[520px]   ">
+          <div className="grid grid-row-2 grid-flow-col gap-x-8 p-4  ">
             {menu.map((category, index) => (
-              <div key={category.id} className="h-fit w-fit border">
-                <p className="text-[15px] select-none   font-bold w-fit border">
+              <div key={category.id}>
+                <p className="text-[15px] select-none   font-bold ">
                   {category.Title}
                 </p>
                 <div>
                   {category.CategoryDetails.map((categoryItem, index) => (
-                    <p key={categoryItem.detailName}>
+                    <ul key={categoryItem.detailName}>
                       <a
                         href={categoryItem.link}
-                        className="text-[11px] border text-gray-600 ">
+                        className="text-[11px]   text-gray-600 ">
                         {categoryItem.detailName}
                       </a>
-                    </p>
+                    </ul>
                   ))}
                 </div>
               </div>
