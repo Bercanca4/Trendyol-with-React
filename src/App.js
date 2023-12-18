@@ -189,7 +189,7 @@ function App() {
 
         <Navbar />
 
-        <div className="flex items-center justify-between gap-x-1 relative z-10">
+        <div className="flex items-center justify-between gap-x-1 ">
           {categoryData.map((item, index) => (
             <Categories
               key={index}
@@ -205,7 +205,7 @@ function App() {
       <hr />
 
       <div className="w-[1200px] mx-auto ">
-        <div className=" items-center overflow-hidden justify-center my-4 gap-x-8">
+        <div className="items-center overflow-hidden justify-center my-4 gap-x-8 z-0 ">
           <Slider {...settings}>
             {brandsData.map((item, index) => (
               <Brands
