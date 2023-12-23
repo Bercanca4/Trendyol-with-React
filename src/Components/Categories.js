@@ -29,7 +29,7 @@ function Categories({ name, statu, menu }) {
       ) : null}
 
       {isDropdownOpen && menu && (
-        <div className="absolute  top-[45%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white  border duration-500 rounded-b-xl transition shadow-md w-[1200px] h-[520px]   ">
+        <div className="absolute  top-[41%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white  border duration-500 rounded-b-xl transition shadow-md w-[1200px] h-[520px]   ">
           <div className="grid grid-row-2 grid-flow-col gap-x-8 p-4  ">
             {menu.map((category, index) => (
               <div key={category.id}>
